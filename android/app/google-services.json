@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1096092944858",
+    "project_id": "veryfi-gg-fb-email",
+    "storage_bucket": "veryfi-gg-fb-email.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096092944858:android:e71e74d62abe4c07a298e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_verify_with_email_fb_gg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096092944858-03k70cukufg1h8rbt2s1dtqq35mase0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_verify_with_email_fb_gg",
+            "certificate_hash": "d34b17ba4087a2217df4543c53a72dce0164e4ca"
+          }
+        },
+        {
+          "client_id": "1096092944858-ec36nj1j21v3joulsdgl0fkh3qsectcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DfcSKQM5nL5ti5-nq_VybH5FvGFWy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096092944858-ec36nj1j21v3joulsdgl0fkh3qsectcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

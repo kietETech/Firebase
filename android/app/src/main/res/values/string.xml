@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrytalApp</string>
+    <string name="facebook_app_id">895433681791353</string>
+    <string name="fb_login_protocol_scheme">fb895433681791353</string>
+    <string name="facebook_client_token">f64257dd8ea594ad6fcc4557fbc6d20d</string>
+</resources>
